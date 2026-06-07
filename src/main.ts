@@ -19,3 +19,10 @@ function doSomething()
     //console.log(i);
 }
  doSomething();
+
+ let count=1;
+ 
+ let count1=2;
+ //count='a';
+ console.log(count);
+  console.log(count1);
